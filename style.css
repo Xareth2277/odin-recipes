@@ -1,0 +1,51 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p, ul, ol {
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.links {
+    text-align: center;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Lasagna Page */
+
+#img-lasagna {
+    width: 500px;
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Pierogi Page */
+
+#img-pierogi {
+    width: 500px;
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;    
+}
